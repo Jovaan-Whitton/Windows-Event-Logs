@@ -85,6 +85,11 @@ This HTB module provides insight into how security analysts and defenders can de
 
 ## Files Included
 
+- [Windows Event Logging Basics](/docs/Windows-Event-Logging-Basics.md)
+- [Analyzing Evil Sysmon](/docs/Analyzing-Evil-Sysmon.md)
+- [ETW Threat Detection](/docs/ETW-Threat-Detection.md)
+- [Get WinEvent](/docs/Get-WinEvent.md)
+
 
 ---
 

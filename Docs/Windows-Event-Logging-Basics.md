@@ -108,3 +108,7 @@ This section enhanced my understanding of:
 - [Microsoft Docs – Event ID 4624](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624)
 - [Access Control Lists (SACLs)](https://docs.microsoft.com/en-us/windows/win32/secauthz/access-control-lists)
 - [SDDL and ACE Strings](https://docs.microsoft.com/en-us/windows/win32/secauthz/ace-strings)
+
+---
+
+*[_Back to Main Project](../README.md)*

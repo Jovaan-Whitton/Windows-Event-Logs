@@ -98,9 +98,5 @@ Completed the module with a strong grasp of Windows logging mechanisms and pract
 
 ---
 
-## Let’s Connect
-I’m pursuing entry-level opportunities in **SOC Analysis**, **Threat Detection**, or **Windows Security** where I can apply event log monitoring and detection engineering skills.
-
-**Email**: jovaan.jwhitton@gmail.com  
-**LinkedIn**: [linkedin.com/in/jovaan-whitton-profile](https://linkedin.com/in/jovaan-whitton-profile)
+*[Visit My GitHub Landing Page](https://github.com/Jovaan-Whitton)*
 

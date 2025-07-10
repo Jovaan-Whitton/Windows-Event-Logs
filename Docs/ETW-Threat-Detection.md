@@ -95,3 +95,7 @@ These exercises strengthened my ability to detect stealthy post-exploitation tac
 - [A Primer on ETW](https://nasbench.medium.com/a-primer-on-event-tracing-for-windows-etw-997725c082bf)
 - [ETW Analysis Guide](https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw)
 
+---
+
+*[_Back to Main Project](../README.md)*
+

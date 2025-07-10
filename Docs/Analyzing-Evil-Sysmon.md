@@ -91,3 +91,7 @@ Completed the lab with successful detection and analysis of:
 
 These exercises provided deep exposure to real attacker tactics and how to detect them using Windows Event Logs and Sysmon telemetry.
 
+---
+
+*[_Back to Main Project](../README.md)*
+

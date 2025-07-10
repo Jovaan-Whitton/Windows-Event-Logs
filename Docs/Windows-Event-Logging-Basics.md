@@ -1,4 +1,3 @@
-
 # Windows Event Logging Basics
 
 ## Overview
@@ -27,7 +26,7 @@ Knowing the structure of each event allows analysts to correlate related events 
 ### Investigating Event ID 4624
 Event ID 4624 reveals successful logons. This information is foundational for detecting unauthorized access or brute-force attacks—especially when tied to service accounts like `SYSTEM`.
 
-### 🧪 Logon Type Analysis
+#### Logon Type Analysis
 Identifying **Logon Type 5** (Service logon) helps differentiate between normal user logins and automated/system-driven access, a key factor in detecting lateral movement and privilege abuse.
 
 ### Using XML Queries

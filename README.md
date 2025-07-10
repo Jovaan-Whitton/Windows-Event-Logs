@@ -73,9 +73,10 @@ This HTB module provides insight into how security analysts and defenders can de
 
 ---
 
-## Sample Visuals
+## All visuals stored in [`screenshots/`](screenshots/) subfolder
+
 <details>
-<summary><strong>Screenshots (click to expand)</strong></summary>
+<summary><strong>Key Visuals (click to expand)</strong></summary>
 
 *Coming soon: Event Viewer breakdowns, Sysmon output, Get-WinEvent queries.*
 

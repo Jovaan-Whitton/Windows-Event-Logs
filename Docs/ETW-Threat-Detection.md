@@ -90,7 +90,7 @@ These exercises strengthened my ability to detect stealthy post-exploitation tac
 
 ---
 
-## 📎 References
+## References
 - [Microsoft ETW Docs](https://learn.microsoft.com/en-us/windows/win32/etw/about-event-tracing)
 - [A Primer on ETW](https://nasbench.medium.com/a-primer-on-event-tracing-for-windows-etw-997725c082bf)
 - [ETW Analysis Guide](https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw)

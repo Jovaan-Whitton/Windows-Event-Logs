@@ -90,6 +90,7 @@ This HTB module provides insight into how security analysts and defenders can de
 - [Analyzing Evil Sysmon](/Docs/Analyzing-Evil-Sysmon.md)
 - [ETW Threat Detection](/Docs/ETW-Threat-Detection.md)
 - [Get WinEvent](/Docs/Get-WinEvent.md)
+- [Windows Event Logs SOC Investigation](/Docs/Windows-Event-Logs-SOC-Investigation.md)
 
 
 ---

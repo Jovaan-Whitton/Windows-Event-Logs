@@ -93,3 +93,7 @@ These exercises developed my skills in scripting and data triage—key for incid
 - [Get-WinEvent Documentation](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)
 - [Understanding Windows Event Logs](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-security-audit-events)
 - [Sysmon Event ID Reference](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+
+---
+
+*[_Back to Main Project](../README.md)*

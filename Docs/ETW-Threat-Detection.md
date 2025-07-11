@@ -97,5 +97,5 @@ These exercises strengthened my ability to detect stealthy post-exploitation tac
 
 ---
 
-*[_Back to Main Project](../README.md)*
+*[Back to Main Project](../README.md)*
 

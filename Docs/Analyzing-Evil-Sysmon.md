@@ -93,5 +93,5 @@ These exercises provided deep exposure to real attacker tactics and how to detec
 
 ---
 
-*[_Back to Main Project](../README.md)*
+*[Back to Main Project](../README.md)*
 

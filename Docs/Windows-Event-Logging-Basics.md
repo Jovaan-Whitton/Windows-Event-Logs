@@ -111,4 +111,4 @@ This section enhanced my understanding of:
 
 ---
 
-*[_Back to Main Project](../README.md)*
+*[Back to Main Project](../README.md)*

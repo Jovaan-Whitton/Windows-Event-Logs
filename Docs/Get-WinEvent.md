@@ -96,4 +96,4 @@ These exercises developed my skills in scripting and data triage—key for incid
 
 ---
 
-*[_Back to Main Project](../README.md)*
+*[Back to Main Project](../README.md)*

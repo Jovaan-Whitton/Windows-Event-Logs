@@ -107,3 +107,7 @@ This exercise reinforced how attacker techniques surface in event logs—often s
 ## References
 - [Sysmon Event ID Reference](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - [Windows Security Event IDs](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-events)
+  
+---
+
+*[Back to Main Project](../README.md)*

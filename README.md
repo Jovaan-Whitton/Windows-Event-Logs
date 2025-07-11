@@ -73,7 +73,7 @@ This HTB module provides insight into how security analysts and defenders can de
 
 ---
 
-## All visuals stored in [`screenshots/`](screenshots/) subfolder
+## All visuals stored in [`screenshots/`](screenshots/) subfolder *coming soon*
 
 <details>
 <summary><strong>Key Visuals (click to expand)</strong></summary>

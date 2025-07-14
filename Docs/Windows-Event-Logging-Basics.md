@@ -77,7 +77,7 @@ These logs form the core dataset for threat detection platforms like SIEMs and E
   - `SubjectLogonId` = `0x3E7`
   - File: `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WPF\wpfgfx_v0400.dll`
 
-Identified Event Time: **10:23:30**
+Identified Event Time: **10:23:50**
 
 ---
 
